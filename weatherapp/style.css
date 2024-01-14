@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#WeatherApp{
+ margin: auto;
+ width: 85px;
+ height: 500px;
+ display: grid;
+ justify-content: center;
+ text-align: center;   
+}
+
+#location-input{
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 15px;
+    outline: none;
+    margin-bottom: 25px;
+}
+
+#weather-data{
+    margin: 0 auto;
+    height: 500;
+    width: 350px;
+    padding: 150px;
+    border-radius: 5px;
+}
