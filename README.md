@@ -40,5 +40,5 @@ Weather data provided by OpenWeatherMap.
 
 # ancient-sound-5222
 
-[Netlify link](https://ubiquitous-babka-5656ec.netlify.app/)
+[Netlify link] (https://leafy-brigadeiros-22725c.netlify.app/)
 
